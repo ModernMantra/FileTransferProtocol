@@ -16,5 +16,5 @@ In order to transfer file, follow the instructions below:
 	pseudocode
 	location_of_client_code_*.out ip_address_of_server location_of_transfer_file_on_server>name_of_receiving_file
 
-->FILE FIleTransferProtocol NEEDS TO BE PLACED IN htdocs IF USING XAMPP. OBVIOUSLY, LOCATION PATH OF SAME FILE NEEDS TO BE CHANGED WITHIN client -> main.c FILE
+->FILES fileNo77.html and FTP_log.php NEEDS TO BE PLACED IN htdocs IF USING XAMPP. OBVIOUSLY, LOCATION PATH OF SAME FILE NEEDS TO BE CHANGED WITHIN client -> main.c FILE
 ->CHANGE email address IN SCRIPT IN CLIENT FOLDER
