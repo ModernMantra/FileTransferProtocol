@@ -2,7 +2,7 @@
 
 It makes transfer of any file between two computers. There are
 client and server codes written in C. When the transfer is complete,
-mail will be received by running script. Also it is generated html 
+mail* will be received by running script. Also it is generated html 
 file with transfer details such as date of transfer, duration, 
 name of file transferred, ip address of server. 
 In order to transfer file, follow the instructions below:
@@ -18,3 +18,5 @@ In order to transfer file, follow the instructions below:
 
 ->FILES fileNo77.html and FTP_log.php NEEDS TO BE PLACED IN htdocs IF USING XAMPP. OBVIOUSLY, LOCATION PATH OF SAME FILE NEEDS TO BE CHANGED WITHIN client -> main.c FILE
 ->CHANGE email address IN SCRIPT IN CLIENT FOLDER
+
+* Mail functionality works only on MAC OSX
